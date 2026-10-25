@@ -47,3 +47,25 @@ export function loreCommand() {
   return onPath('lore') ? 'lore' : `"${process.execPath}" "${BIN}"`;
 }
 export const isOnPath = () => onPath('lore');
+
+// Hooks run inside the agent apps, which may not load your shell setup (nvm,
+// Homebrew), so name node and the script by absolute path. Prefer node's PATH
+// entry (/opt/homebrew/bin/node) over where it resolves to
+// (…/Cellar/node/26.1.0/bin/node), which moves on every upgrade.
+export function hookInvocation() {
+  if (process.env.AGENTLORE_BIN) return process.env.AGENTLORE_BIN;
+  const real = fs.realpathSync(process.execPath);
+  const node =
+    (process.env.PATH || '')
+      .split(path.delimiter)
+      .filter(Boolean)
+      .map((dir) => path.join(dir, 'node'))
+      .find((p) => {
+        try {
+          return fs.realpathSync(p) === real;
+        } catch {
+          return false;
+        }
+      }) || process.execPath;
+  return `"${node}" "${BIN}"`;
+}

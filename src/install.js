@@ -2,7 +2,7 @@ import fs from 'node:fs';
 import os from 'node:os';
 import path from 'node:path';
 import { c } from './util/term.js';
-import { loreCommand, isOnPath } from './paths.js';
+import { hookInvocation, isOnPath } from './paths.js';
 import { saveConfig, loadConfig } from './state.js';
 import { readJson } from './util/io.js';
 
@@ -61,7 +61,7 @@ function setHooks(settings, events, command) {
 }
 
 export function install({ scope = 'user', codex = false, compress = true, dryRun = false } = {}) {
-  const command = loreCommand();
+  const command = hookInvocation();
   const global = isOnPath();
   const file = codex ? codexHooksPath() : claudeSettingsPath(scope);
   const settings = readJson(file, {});
