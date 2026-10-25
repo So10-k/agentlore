@@ -38,7 +38,11 @@ export const relative = (root, file) => {
 };
 
 const BIN = fileURLToPath(new URL('../bin/lore.js', import.meta.url));
-const onPath = (name) => (process.env.PATH || '').split(path.delimiter).some((dir) => dir && fs.existsSync(path.join(dir, name)));
+// Hooks can run with a bare PATH even when the agent's own shell has the global
+// bin folder, so look in the usual global install folders too.
+const GLOBAL_BINS = ['/opt/homebrew/bin', '/usr/local/bin', path.dirname(process.execPath)];
+const onPath = (name) =>
+  [...(process.env.PATH || '').split(path.delimiter), ...GLOBAL_BINS].some((dir) => dir && fs.existsSync(path.join(dir, name)));
 
 // How agents and hooks should invoke us: `lore` once installed globally, the
 // absolute script otherwise (development, npx).
