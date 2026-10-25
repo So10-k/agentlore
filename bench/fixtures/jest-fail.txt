@@ -1,0 +1,154 @@
+PASS tests/m37.test.js
+PASS tests/m34.test.js
+PASS tests/m39.test.js
+PASS tests/m38.test.js
+PASS tests/m40.test.js
+PASS tests/m36.test.js
+PASS tests/m35.test.js
+FAIL tests/m7.test.js
+  ● module 7 › parses config
+
+    expect(received).toEqual(expected) // deep equality
+
+    - Expected  - 1
+    + Received  + 1
+
+      Object {
+        "a": 1,
+        "b": Array [
+          1,
+          2,
+    -     4,
+    +     3,
+        ],
+      }
+
+      12 |   test('case 11', () => { expect(7 + 11).toBe(18); });
+      13 |   test('case 12', () => { expect(7 + 12).toBe(19); });
+    > 14 |   test('parses config', () => { expect({ a: 1, b: [1, 2, 3] }).toEqual({ a: 1, b: [1, 2, 4] }); });
+         |                                                                ^
+      15 | });
+      16 |
+
+      at Object.toEqual (tests/m7.test.js:14:64)
+
+FAIL tests/m23.test.js
+  ● module 23 › parses config
+
+    expect(received).toEqual(expected) // deep equality
+
+    - Expected  - 1
+    + Received  + 1
+
+      Object {
+        "a": 1,
+        "b": Array [
+          1,
+          2,
+    -     4,
+    +     3,
+        ],
+      }
+
+      12 |   test('case 11', () => { expect(23 + 11).toBe(34); });
+      13 |   test('case 12', () => { expect(23 + 12).toBe(35); });
+    > 14 |   test('parses config', () => { expect({ a: 1, b: [1, 2, 3] }).toEqual({ a: 1, b: [1, 2, 4] }); });
+         |                                                                ^
+      15 | });
+      16 |
+
+      at Object.toEqual (tests/m23.test.js:14:64)
+
+PASS tests/m8.test.js
+PASS tests/m6.test.js
+PASS tests/m5.test.js
+PASS tests/m9.test.js
+PASS tests/m10.test.js
+PASS tests/m29.test.js
+PASS tests/m25.test.js
+PASS tests/m32.test.js
+PASS tests/m30.test.js
+PASS tests/m26.test.js
+PASS tests/m27.test.js
+PASS tests/m28.test.js
+PASS tests/m20.test.js
+PASS tests/m15.test.js
+PASS tests/m13.test.js
+PASS tests/m17.test.js
+PASS tests/m12.test.js
+PASS tests/m18.test.js
+PASS tests/m16.test.js
+PASS tests/m31.test.js
+PASS tests/m33.test.js
+PASS tests/m22.test.js
+PASS tests/m11.test.js
+PASS tests/m19.test.js
+PASS tests/m21.test.js
+PASS tests/m14.test.js
+PASS tests/m24.test.js
+PASS tests/m3.test.js
+PASS tests/m4.test.js
+PASS tests/m2.test.js
+PASS tests/m1.test.js
+
+Summary of all failing tests
+FAIL tests/m7.test.js
+  ● module 7 › parses config
+
+    expect(received).toEqual(expected) // deep equality
+
+    - Expected  - 1
+    + Received  + 1
+
+      Object {
+        "a": 1,
+        "b": Array [
+          1,
+          2,
+    -     4,
+    +     3,
+        ],
+      }
+
+      12 |   test('case 11', () => { expect(7 + 11).toBe(18); });
+      13 |   test('case 12', () => { expect(7 + 12).toBe(19); });
+    > 14 |   test('parses config', () => { expect({ a: 1, b: [1, 2, 3] }).toEqual({ a: 1, b: [1, 2, 4] }); });
+         |                                                                ^
+      15 | });
+      16 |
+
+      at Object.toEqual (tests/m7.test.js:14:64)
+
+FAIL tests/m23.test.js
+  ● module 23 › parses config
+
+    expect(received).toEqual(expected) // deep equality
+
+    - Expected  - 1
+    + Received  + 1
+
+      Object {
+        "a": 1,
+        "b": Array [
+          1,
+          2,
+    -     4,
+    +     3,
+        ],
+      }
+
+      12 |   test('case 11', () => { expect(23 + 11).toBe(34); });
+      13 |   test('case 12', () => { expect(23 + 12).toBe(35); });
+    > 14 |   test('parses config', () => { expect({ a: 1, b: [1, 2, 3] }).toEqual({ a: 1, b: [1, 2, 4] }); });
+         |                                                                ^
+      15 | });
+      16 |
+
+      at Object.toEqual (tests/m23.test.js:14:64)
+
+
+Test Suites: 2 failed, 38 passed, 40 total
+Tests:       2 failed, 480 passed, 482 total
+Snapshots:   0 total
+Time:        1.802 s, estimated 2 s
+Ran all test suites.

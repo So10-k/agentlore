@@ -1,0 +1,607 @@
+PASS tests/m37.test.js
+  module 37
+    ✓ case 1 (9 ms)
+    ✓ case 2 (1 ms)
+    ✓ case 3
+    ✓ case 4 (1 ms)
+    ✓ case 5
+    ✓ case 6 (1 ms)
+    ✓ case 7
+    ✓ case 8
+    ✓ case 9 (4 ms)
+    ✓ case 10
+    ✓ case 11
+    ✓ case 12
+
+PASS tests/m35.test.js
+  module 35
+    ✓ case 1 (9 ms)
+    ✓ case 2
+    ✓ case 3
+    ✓ case 4
+    ✓ case 5 (1 ms)
+    ✓ case 6
+    ✓ case 7
+    ✓ case 8
+    ✓ case 9
+    ✓ case 10 (1 ms)
+    ✓ case 11
+    ✓ case 12
+
+PASS tests/m36.test.js
+  module 36
+    ✓ case 1 (9 ms)
+    ✓ case 2 (1 ms)
+    ✓ case 3
+    ✓ case 4 (1 ms)
+    ✓ case 5 (4 ms)
+    ✓ case 6 (1 ms)
+    ✓ case 7
+    ✓ case 8
+    ✓ case 9 (1 ms)
+    ✓ case 10
+    ✓ case 11 (1 ms)
+    ✓ case 12
+
+PASS tests/m38.test.js
+  module 38
+    ✓ case 1 (21 ms)
+    ✓ case 2 (1 ms)
+    ✓ case 3
+    ✓ case 4 (1 ms)
+    ✓ case 5
+    ✓ case 6
+    ✓ case 7
+    ✓ case 8
+    ✓ case 9 (1 ms)
+    ✓ case 10
+    ✓ case 11
+    ✓ case 12 (1 ms)
+
+PASS tests/m39.test.js
+  module 39
+    ✓ case 1 (13 ms)
+    ✓ case 2
+    ✓ case 3
+    ✓ case 4 (1 ms)
+    ✓ case 5
+    ✓ case 6
+    ✓ case 7 (1 ms)
+    ✓ case 8
+    ✓ case 9
+    ✓ case 10 (1 ms)
+    ✓ case 11
+    ✓ case 12
+
+PASS tests/m34.test.js
+  module 34
+    ✓ case 1 (10 ms)
+    ✓ case 2
+    ✓ case 3
+    ✓ case 4 (1 ms)
+    ✓ case 5 (1 ms)
+    ✓ case 6
+    ✓ case 7
+    ✓ case 8
+    ✓ case 9
+    ✓ case 10 (1 ms)
+    ✓ case 11
+    ✓ case 12
+
+PASS tests/m40.test.js
+  module 40
+    ✓ case 1 (14 ms)
+    ✓ case 2 (1 ms)
+    ✓ case 3
+    ✓ case 4 (1 ms)
+    ✓ case 5
+    ✓ case 6 (1 ms)
+    ✓ case 7
+    ✓ case 8
+    ✓ case 9 (1 ms)
+    ✓ case 10 (1 ms)
+    ✓ case 11
+    ✓ case 12
+
+PASS tests/m5.test.js
+  module 5
+    ✓ case 1 (1 ms)
+    ✓ case 2
+    ✓ case 3
+    ✓ case 4
+    ✓ case 5
+    ✓ case 6
+    ✓ case 7
+    ✓ case 8
+    ✓ case 9 (1 ms)
+    ✓ case 10
+    ✓ case 11
+    ✓ case 12
+
+PASS tests/m8.test.js
+  module 8
+    ✓ case 1
+    ✓ case 2 (1 ms)
+    ✓ case 3
+    ✓ case 4
+    ✓ case 5
+    ✓ case 6
+    ✓ case 7
+    ✓ case 8 (1 ms)
+    ✓ case 9
+    ✓ case 10
+    ✓ case 11
+    ✓ case 12
+
+PASS tests/m23.test.js
+  module 23
+    ✓ case 1 (11 ms)
+    ✓ case 2
+    ✓ case 3
+    ✓ case 4 (1 ms)
+    ✓ case 5
+    ✓ case 6
+    ✓ case 7
+    ✓ case 8
+    ✓ case 9 (2 ms)
+    ✓ case 10
+    ✓ case 11 (1 ms)
+    ✓ case 12
+    ✓ parses config (1 ms)
+
+PASS tests/m6.test.js
+  module 6
+    ✓ case 1
+    ✓ case 2
+    ✓ case 3 (1 ms)
+    ✓ case 4
+    ✓ case 5
+    ✓ case 6
+    ✓ case 7
+    ✓ case 8
+    ✓ case 9
+    ✓ case 10 (1 ms)
+    ✓ case 11
+    ✓ case 12
+
+PASS tests/m18.test.js
+  module 18
+    ✓ case 1 (1 ms)
+    ✓ case 2
+    ✓ case 3 (1 ms)
+    ✓ case 4
+    ✓ case 5
+    ✓ case 6 (1 ms)
+    ✓ case 7
+    ✓ case 8
+    ✓ case 9
+    ✓ case 10 (1 ms)
+    ✓ case 11
+    ✓ case 12
+
+PASS tests/m7.test.js
+  module 7
+    ✓ case 1 (9 ms)
+    ✓ case 2
+    ✓ case 3 (1 ms)
+    ✓ case 4
+    ✓ case 5
+    ✓ case 6
+    ✓ case 7
+    ✓ case 8
+    ✓ case 9
+    ✓ case 10 (1 ms)
+    ✓ case 11
+    ✓ case 12
+    ✓ parses config (1 ms)
+
+PASS tests/m17.test.js
+  module 17
+    ✓ case 1 (1 ms)
+    ✓ case 2
+    ✓ case 3
+    ✓ case 4
+    ✓ case 5
+    ✓ case 6
+    ✓ case 7 (1 ms)
+    ✓ case 8
+    ✓ case 9
+    ✓ case 10
+    ✓ case 11
+    ✓ case 12 (1 ms)
+
+PASS tests/m28.test.js
+  module 28
+    ✓ case 1 (1 ms)
+    ✓ case 2
+    ✓ case 3
+    ✓ case 4
+    ✓ case 5
+    ✓ case 6
+    ✓ case 7
+    ✓ case 8 (1 ms)
+    ✓ case 9
+    ✓ case 10
+    ✓ case 11
+    ✓ case 12
+
+PASS tests/m12.test.js
+  module 12
+    ✓ case 1 (1 ms)
+    ✓ case 2 (1 ms)
+    ✓ case 3
+    ✓ case 4
+    ✓ case 5
+    ✓ case 6 (1 ms)
+    ✓ case 7
+    ✓ case 8
+    ✓ case 9
+    ✓ case 10
+    ✓ case 11 (1 ms)
+    ✓ case 12
+
+PASS tests/m20.test.js
+  module 20
+    ✓ case 1 (1 ms)
+    ✓ case 2
+    ✓ case 3
+    ✓ case 4
+    ✓ case 5 (1 ms)
+    ✓ case 6
+    ✓ case 7
+    ✓ case 8
+    ✓ case 9
+    ✓ case 10
+    ✓ case 11 (1 ms)
+    ✓ case 12
+
+PASS tests/m15.test.js
+  module 15
+    ✓ case 1 (1 ms)
+    ✓ case 2
+    ✓ case 3
+    ✓ case 4 (1 ms)
+    ✓ case 5
+    ✓ case 6
+    ✓ case 7
+    ✓ case 8
+    ✓ case 9 (1 ms)
+    ✓ case 10
+    ✓ case 11
+    ✓ case 12
+
+PASS tests/m13.test.js
+  module 13
+    ✓ case 1 (1 ms)
+    ✓ case 2
+    ✓ case 3
+    ✓ case 4
+    ✓ case 5
+    ✓ case 6 (1 ms)
+    ✓ case 7
+    ✓ case 8
+    ✓ case 9
+    ✓ case 10
+    ✓ case 11 (1 ms)
+    ✓ case 12
+
+PASS tests/m9.test.js
+  module 9
+    ✓ case 1 (1 ms)
+    ✓ case 2 (1 ms)
+    ✓ case 3
+    ✓ case 4 (1 ms)
+    ✓ case 5
+    ✓ case 6
+    ✓ case 7
+    ✓ case 8 (1 ms)
+    ✓ case 9
+    ✓ case 10
+    ✓ case 11
+    ✓ case 12
+
+PASS tests/m27.test.js
+  module 27
+    ✓ case 1 (1 ms)
+    ✓ case 2
+    ✓ case 3 (1 ms)
+    ✓ case 4
+    ✓ case 5
+    ✓ case 6
+    ✓ case 7
+    ✓ case 8
+    ✓ case 9 (1 ms)
+    ✓ case 10
+    ✓ case 11
+    ✓ case 12 (1 ms)
+
+PASS tests/m29.test.js
+  module 29
+    ✓ case 1
+    ✓ case 2
+    ✓ case 3
+    ✓ case 4
+    ✓ case 5
+    ✓ case 6
+    ✓ case 7 (1 ms)
+    ✓ case 8
+    ✓ case 9
+    ✓ case 10
+    ✓ case 11
+    ✓ case 12
+
+PASS tests/m26.test.js
+  module 26
+    ✓ case 1
+    ✓ case 2 (1 ms)
+    ✓ case 3
+    ✓ case 4
+    ✓ case 5
+    ✓ case 6
+    ✓ case 7
+    ✓ case 8 (1 ms)
+    ✓ case 9
+    ✓ case 10
+    ✓ case 11
+    ✓ case 12
+
+PASS tests/m10.test.js
+  module 10
+    ✓ case 1
+    ✓ case 2 (1 ms)
+    ✓ case 3
+    ✓ case 4
+    ✓ case 5
+    ✓ case 6
+    ✓ case 7
+    ✓ case 8
+    ✓ case 9
+    ✓ case 10
+    ✓ case 11
+    ✓ case 12
+
+PASS tests/m11.test.js
+  module 11
+    ✓ case 1 (1 ms)
+    ✓ case 2
+    ✓ case 3
+    ✓ case 4
+    ✓ case 5 (1 ms)
+    ✓ case 6
+    ✓ case 7
+    ✓ case 8
+    ✓ case 9
+    ✓ case 10
+    ✓ case 11
+    ✓ case 12
+
+PASS tests/m16.test.js
+  module 16
+    ✓ case 1 (1 ms)
+    ✓ case 2
+    ✓ case 3
+    ✓ case 4
+    ✓ case 5
+    ✓ case 6 (1 ms)
+    ✓ case 7
+    ✓ case 8
+    ✓ case 9
+    ✓ case 10
+    ✓ case 11
+    ✓ case 12
+
+PASS tests/m19.test.js
+  module 19
+    ✓ case 1 (1 ms)
+    ✓ case 2
+    ✓ case 3
+    ✓ case 4
+    ✓ case 5
+    ✓ case 6 (1 ms)
+    ✓ case 7
+    ✓ case 8
+    ✓ case 9
+    ✓ case 10
+    ✓ case 11
+    ✓ case 12
+
+PASS tests/m33.test.js
+  module 33
+    ✓ case 1 (1 ms)
+    ✓ case 2 (1 ms)
+    ✓ case 3
+    ✓ case 4
+    ✓ case 5
+    ✓ case 6
+    ✓ case 7 (1 ms)
+    ✓ case 8
+    ✓ case 9 (3 ms)
+    ✓ case 10
+    ✓ case 11
+    ✓ case 12
+
+PASS tests/m31.test.js
+  module 31
+    ✓ case 1
+    ✓ case 2 (1 ms)
+    ✓ case 3
+    ✓ case 4 (1 ms)
+    ✓ case 5
+    ✓ case 6 (1 ms)
+    ✓ case 7
+    ✓ case 8
+    ✓ case 9
+    ✓ case 10 (1 ms)
+    ✓ case 11
+    ✓ case 12
+
+PASS tests/m22.test.js
+  module 22
+    ✓ case 1 (1 ms)
+    ✓ case 2
+    ✓ case 3
+    ✓ case 4 (1 ms)
+    ✓ case 5
+    ✓ case 6
+    ✓ case 7 (3 ms)
+    ✓ case 8
+    ✓ case 9
+    ✓ case 10
+    ✓ case 11
+    ✓ case 12
+
+PASS tests/m25.test.js
+  module 25
+    ✓ case 1 (1 ms)
+    ✓ case 2
+    ✓ case 3
+    ✓ case 4
+    ✓ case 5
+    ✓ case 6
+    ✓ case 7
+    ✓ case 8
+    ✓ case 9
+    ✓ case 10
+    ✓ case 11
+    ✓ case 12
+
+PASS tests/m21.test.js
+  module 21
+    ✓ case 1 (1 ms)
+    ✓ case 2
+    ✓ case 3
+    ✓ case 4
+    ✓ case 5
+    ✓ case 6 (4 ms)
+    ✓ case 7
+    ✓ case 8
+    ✓ case 9
+    ✓ case 10
+    ✓ case 11
+    ✓ case 12
+
+PASS tests/m14.test.js
+  module 14
+    ✓ case 1 (1 ms)
+    ✓ case 2
+    ✓ case 3 (4 ms)
+    ✓ case 4
+    ✓ case 5 (1 ms)
+    ✓ case 6
+    ✓ case 7
+    ✓ case 8
+    ✓ case 9 (1 ms)
+    ✓ case 10 (1 ms)
+    ✓ case 11
+    ✓ case 12
+
+PASS tests/m30.test.js
+  module 30
+    ✓ case 1 (1 ms)
+    ✓ case 2
+    ✓ case 3
+    ✓ case 4
+    ✓ case 5 (1 ms)
+    ✓ case 6
+    ✓ case 7 (2 ms)
+    ✓ case 8
+    ✓ case 9 (1 ms)
+    ✓ case 10
+    ✓ case 11
+    ✓ case 12
+
+PASS tests/m32.test.js
+  module 32
+    ✓ case 1 (1 ms)
+    ✓ case 2
+    ✓ case 3
+    ✓ case 4
+    ✓ case 5
+    ✓ case 6 (1 ms)
+    ✓ case 7
+    ✓ case 8
+    ✓ case 9
+    ✓ case 10
+    ✓ case 11
+    ✓ case 12
+
+PASS tests/m24.test.js
+  module 24
+    ✓ case 1
+    ✓ case 2
+    ✓ case 3
+    ✓ case 4 (1 ms)
+    ✓ case 5
+    ✓ case 6
+    ✓ case 7
+    ✓ case 8
+    ✓ case 9 (1 ms)
+    ✓ case 10
+    ✓ case 11
+    ✓ case 12
+
+PASS tests/m4.test.js
+  module 4
+    ✓ case 1
+    ✓ case 2
+    ✓ case 3
+    ✓ case 4
+    ✓ case 5
+    ✓ case 6
+    ✓ case 7
+    ✓ case 8
+    ✓ case 9
+    ✓ case 10
+    ✓ case 11
+    ✓ case 12
+
+PASS tests/m1.test.js
+  module 1
+    ✓ case 1
+    ✓ case 2
+    ✓ case 3 (1 ms)
+    ✓ case 4
+    ✓ case 5
+    ✓ case 6
+    ✓ case 7 (1 ms)
+    ✓ case 8
+    ✓ case 9
+    ✓ case 10
+    ✓ case 11
+    ✓ case 12 (1 ms)
+
+PASS tests/m3.test.js
+  module 3
+    ✓ case 1
+    ✓ case 2
+    ✓ case 3 (1 ms)
+    ✓ case 4
+    ✓ case 5
+    ✓ case 6
+    ✓ case 7 (1 ms)
+    ✓ case 8
+    ✓ case 9
+    ✓ case 10
+    ✓ case 11
+    ✓ case 12
+
+PASS tests/m2.test.js
+  module 2
+    ✓ case 1 (1 ms)
+    ✓ case 2
+    ✓ case 3
+    ✓ case 4 (1 ms)
+    ✓ case 5
+    ✓ case 6
+    ✓ case 7
+    ✓ case 8
+    ✓ case 9
+    ✓ case 10
+    ✓ case 11 (1 ms)
+    ✓ case 12
+
+Test Suites: 40 passed, 40 total
+Tests:       482 passed, 482 total
+Snapshots:   0 total
+Time:        1.818 s, estimated 2 s
+Ran all test suites.

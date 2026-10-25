@@ -1,0 +1,61 @@
+bad.ts(2,9): error TS2322: Type 'number' is not assignable to type 'string'.
+bad.ts(3,9): error TS2322: Type 'number' is not assignable to type 'string'.
+bad.ts(4,9): error TS2322: Type 'number' is not assignable to type 'string'.
+bad.ts(5,9): error TS2322: Type 'number' is not assignable to type 'string'.
+bad.ts(6,9): error TS2322: Type 'number' is not assignable to type 'string'.
+bad.ts(7,9): error TS2322: Type 'number' is not assignable to type 'string'.
+bad.ts(8,9): error TS2322: Type 'number' is not assignable to type 'string'.
+bad.ts(9,9): error TS2322: Type 'number' is not assignable to type 'string'.
+bad.ts(10,9): error TS2322: Type 'number' is not assignable to type 'string'.
+bad.ts(11,9): error TS2322: Type 'number' is not assignable to type 'string'.
+bad.ts(12,9): error TS2322: Type 'number' is not assignable to type 'string'.
+bad.ts(13,9): error TS2322: Type 'number' is not assignable to type 'string'.
+bad.ts(14,9): error TS2322: Type 'number' is not assignable to type 'string'.
+bad.ts(15,9): error TS2322: Type 'number' is not assignable to type 'string'.
+bad.ts(16,9): error TS2322: Type 'number' is not assignable to type 'string'.
+bad.ts(17,9): error TS2322: Type 'number' is not assignable to type 'string'.
+bad.ts(18,9): error TS2322: Type 'number' is not assignable to type 'string'.
+bad.ts(19,9): error TS2322: Type 'number' is not assignable to type 'string'.
+bad.ts(20,9): error TS2322: Type 'number' is not assignable to type 'string'.
+bad.ts(21,9): error TS2322: Type 'number' is not assignable to type 'string'.
+bad.ts(22,9): error TS2322: Type 'number' is not assignable to type 'string'.
+bad.ts(23,9): error TS2322: Type 'number' is not assignable to type 'string'.
+bad.ts(24,9): error TS2322: Type 'number' is not assignable to type 'string'.
+bad.ts(25,9): error TS2322: Type 'number' is not assignable to type 'string'.
+bad.ts(26,9): error TS2322: Type 'number' is not assignable to type 'string'.
+bad.ts(27,9): error TS2322: Type 'number' is not assignable to type 'string'.
+bad.ts(28,9): error TS2322: Type 'number' is not assignable to type 'string'.
+bad.ts(29,9): error TS2322: Type 'number' is not assignable to type 'string'.
+bad.ts(30,9): error TS2322: Type 'number' is not assignable to type 'string'.
+bad.ts(31,9): error TS2322: Type 'number' is not assignable to type 'string'.
+bad.ts(32,9): error TS2322: Type 'number' is not assignable to type 'string'.
+bad.ts(33,9): error TS2322: Type 'number' is not assignable to type 'string'.
+bad.ts(34,9): error TS2322: Type 'number' is not assignable to type 'string'.
+bad.ts(35,9): error TS2322: Type 'number' is not assignable to type 'string'.
+bad.ts(36,9): error TS2322: Type 'number' is not assignable to type 'string'.
+bad.ts(37,9): error TS2322: Type 'number' is not assignable to type 'string'.
+bad.ts(38,9): error TS2322: Type 'number' is not assignable to type 'string'.
+bad.ts(39,9): error TS2322: Type 'number' is not assignable to type 'string'.
+bad.ts(40,9): error TS2322: Type 'number' is not assignable to type 'string'.
+bad.ts(41,9): error TS2322: Type 'number' is not assignable to type 'string'.
+bad.ts(42,3): error TS2304: Cannot find name 'missing1'.
+bad.ts(43,3): error TS2304: Cannot find name 'missing2'.
+bad.ts(44,3): error TS2304: Cannot find name 'missing3'.
+bad.ts(45,3): error TS2304: Cannot find name 'missing4'.
+bad.ts(46,3): error TS2304: Cannot find name 'missing5'.
+bad.ts(47,3): error TS2304: Cannot find name 'missing6'.
+bad.ts(48,3): error TS2304: Cannot find name 'missing7'.
+bad.ts(49,3): error TS2304: Cannot find name 'missing8'.
+bad.ts(50,3): error TS2304: Cannot find name 'missing9'.
+bad.ts(51,3): error TS2304: Cannot find name 'missing10'.
+bad.ts(52,3): error TS2304: Cannot find name 'missing11'.
+bad.ts(53,3): error TS2304: Cannot find name 'missing12'.
+bad.ts(54,3): error TS2304: Cannot find name 'missing13'.
+bad.ts(55,3): error TS2304: Cannot find name 'missing14'.
+bad.ts(56,3): error TS2304: Cannot find name 'missing15'.
+bad.ts(57,3): error TS2304: Cannot find name 'missing16'.
+bad.ts(58,3): error TS2304: Cannot find name 'missing17'.
+bad.ts(59,3): error TS2304: Cannot find name 'missing18'.
+bad.ts(60,3): error TS2304: Cannot find name 'missing19'.
+bad.ts(61,3): error TS2304: Cannot find name 'missing20'.
+bad.ts(62,3): error TS2322: Type 'number' is not assignable to type 'string'.

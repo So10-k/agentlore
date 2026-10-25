@@ -1,0 +1,412 @@
+
+/tmp/bench-work/js/src/f1.js
+   1:1   error  Unexpected var, use let or const instead  no-var
+   1:10  error  Strings must use singlequote              quotes
+   1:14  error  Missing semicolon                         semi
+   2:8   error  Expected '===' and instead saw '=='       eqeqeq
+   3:1   error  Unexpected var, use let or const instead  no-var
+   3:10  error  Strings must use singlequote              quotes
+   3:14  error  Missing semicolon                         semi
+   4:8   error  Expected '===' and instead saw '=='       eqeqeq
+   5:1   error  Unexpected var, use let or const instead  no-var
+   5:10  error  Strings must use singlequote              quotes
+   5:14  error  Missing semicolon                         semi
+   6:8   error  Expected '===' and instead saw '=='       eqeqeq
+   7:1   error  Unexpected var, use let or const instead  no-var
+   7:10  error  Strings must use singlequote              quotes
+   7:14  error  Missing semicolon                         semi
+   8:8   error  Expected '===' and instead saw '=='       eqeqeq
+   9:1   error  Unexpected var, use let or const instead  no-var
+   9:10  error  Strings must use singlequote              quotes
+   9:14  error  Missing semicolon                         semi
+  10:8   error  Expected '===' and instead saw '=='       eqeqeq
+  11:1   error  Unexpected var, use let or const instead  no-var
+  11:10  error  Strings must use singlequote              quotes
+  11:14  error  Missing semicolon                         semi
+  12:8   error  Expected '===' and instead saw '=='       eqeqeq
+  13:1   error  Unexpected var, use let or const instead  no-var
+  13:10  error  Strings must use singlequote              quotes
+  13:14  error  Missing semicolon                         semi
+  14:8   error  Expected '===' and instead saw '=='       eqeqeq
+  15:1   error  Unexpected var, use let or const instead  no-var
+  15:10  error  Strings must use singlequote              quotes
+  15:14  error  Missing semicolon                         semi
+  16:8   error  Expected '===' and instead saw '=='       eqeqeq
+
+/tmp/bench-work/js/src/f10.js
+   1:1   error  Unexpected var, use let or const instead  no-var
+   1:10  error  Strings must use singlequote              quotes
+   1:14  error  Missing semicolon                         semi
+   2:8   error  Expected '===' and instead saw '=='       eqeqeq
+   3:1   error  Unexpected var, use let or const instead  no-var
+   3:10  error  Strings must use singlequote              quotes
+   3:14  error  Missing semicolon                         semi
+   4:8   error  Expected '===' and instead saw '=='       eqeqeq
+   5:1   error  Unexpected var, use let or const instead  no-var
+   5:10  error  Strings must use singlequote              quotes
+   5:14  error  Missing semicolon                         semi
+   6:8   error  Expected '===' and instead saw '=='       eqeqeq
+   7:1   error  Unexpected var, use let or const instead  no-var
+   7:10  error  Strings must use singlequote              quotes
+   7:14  error  Missing semicolon                         semi
+   8:8   error  Expected '===' and instead saw '=='       eqeqeq
+   9:1   error  Unexpected var, use let or const instead  no-var
+   9:10  error  Strings must use singlequote              quotes
+   9:14  error  Missing semicolon                         semi
+  10:8   error  Expected '===' and instead saw '=='       eqeqeq
+  11:1   error  Unexpected var, use let or const instead  no-var
+  11:10  error  Strings must use singlequote              quotes
+  11:14  error  Missing semicolon                         semi
+  12:8   error  Expected '===' and instead saw '=='       eqeqeq
+  13:1   error  Unexpected var, use let or const instead  no-var
+  13:10  error  Strings must use singlequote              quotes
+  13:14  error  Missing semicolon                         semi
+  14:8   error  Expected '===' and instead saw '=='       eqeqeq
+  15:1   error  Unexpected var, use let or const instead  no-var
+  15:10  error  Strings must use singlequote              quotes
+  15:14  error  Missing semicolon                         semi
+  16:8   error  Expected '===' and instead saw '=='       eqeqeq
+
+/tmp/bench-work/js/src/f11.js
+   1:1   error  Unexpected var, use let or const instead  no-var
+   1:10  error  Strings must use singlequote              quotes
+   1:14  error  Missing semicolon                         semi
+   2:8   error  Expected '===' and instead saw '=='       eqeqeq
+   3:1   error  Unexpected var, use let or const instead  no-var
+   3:10  error  Strings must use singlequote              quotes
+   3:14  error  Missing semicolon                         semi
+   4:8   error  Expected '===' and instead saw '=='       eqeqeq
+   5:1   error  Unexpected var, use let or const instead  no-var
+   5:10  error  Strings must use singlequote              quotes
+   5:14  error  Missing semicolon                         semi
+   6:8   error  Expected '===' and instead saw '=='       eqeqeq
+   7:1   error  Unexpected var, use let or const instead  no-var
+   7:10  error  Strings must use singlequote              quotes
+   7:14  error  Missing semicolon                         semi
+   8:8   error  Expected '===' and instead saw '=='       eqeqeq
+   9:1   error  Unexpected var, use let or const instead  no-var
+   9:10  error  Strings must use singlequote              quotes
+   9:14  error  Missing semicolon                         semi
+  10:8   error  Expected '===' and instead saw '=='       eqeqeq
+  11:1   error  Unexpected var, use let or const instead  no-var
+  11:10  error  Strings must use singlequote              quotes
+  11:14  error  Missing semicolon                         semi
+  12:8   error  Expected '===' and instead saw '=='       eqeqeq
+  13:1   error  Unexpected var, use let or const instead  no-var
+  13:10  error  Strings must use singlequote              quotes
+  13:14  error  Missing semicolon                         semi
+  14:8   error  Expected '===' and instead saw '=='       eqeqeq
+  15:1   error  Unexpected var, use let or const instead  no-var
+  15:10  error  Strings must use singlequote              quotes
+  15:14  error  Missing semicolon                         semi
+  16:8   error  Expected '===' and instead saw '=='       eqeqeq
+
+/tmp/bench-work/js/src/f12.js
+   1:1   error  Unexpected var, use let or const instead  no-var
+   1:10  error  Strings must use singlequote              quotes
+   1:14  error  Missing semicolon                         semi
+   2:8   error  Expected '===' and instead saw '=='       eqeqeq
+   3:1   error  Unexpected var, use let or const instead  no-var
+   3:10  error  Strings must use singlequote              quotes
+   3:14  error  Missing semicolon                         semi
+   4:8   error  Expected '===' and instead saw '=='       eqeqeq
+   5:1   error  Unexpected var, use let or const instead  no-var
+   5:10  error  Strings must use singlequote              quotes
+   5:14  error  Missing semicolon                         semi
+   6:8   error  Expected '===' and instead saw '=='       eqeqeq
+   7:1   error  Unexpected var, use let or const instead  no-var
+   7:10  error  Strings must use singlequote              quotes
+   7:14  error  Missing semicolon                         semi
+   8:8   error  Expected '===' and instead saw '=='       eqeqeq
+   9:1   error  Unexpected var, use let or const instead  no-var
+   9:10  error  Strings must use singlequote              quotes
+   9:14  error  Missing semicolon                         semi
+  10:8   error  Expected '===' and instead saw '=='       eqeqeq
+  11:1   error  Unexpected var, use let or const instead  no-var
+  11:10  error  Strings must use singlequote              quotes
+  11:14  error  Missing semicolon                         semi
+  12:8   error  Expected '===' and instead saw '=='       eqeqeq
+  13:1   error  Unexpected var, use let or const instead  no-var
+  13:10  error  Strings must use singlequote              quotes
+  13:14  error  Missing semicolon                         semi
+  14:8   error  Expected '===' and instead saw '=='       eqeqeq
+  15:1   error  Unexpected var, use let or const instead  no-var
+  15:10  error  Strings must use singlequote              quotes
+  15:14  error  Missing semicolon                         semi
+  16:8   error  Expected '===' and instead saw '=='       eqeqeq
+
+/tmp/bench-work/js/src/f2.js
+   1:1   error  Unexpected var, use let or const instead  no-var
+   1:10  error  Strings must use singlequote              quotes
+   1:14  error  Missing semicolon                         semi
+   2:8   error  Expected '===' and instead saw '=='       eqeqeq
+   3:1   error  Unexpected var, use let or const instead  no-var
+   3:10  error  Strings must use singlequote              quotes
+   3:14  error  Missing semicolon                         semi
+   4:8   error  Expected '===' and instead saw '=='       eqeqeq
+   5:1   error  Unexpected var, use let or const instead  no-var
+   5:10  error  Strings must use singlequote              quotes
+   5:14  error  Missing semicolon                         semi
+   6:8   error  Expected '===' and instead saw '=='       eqeqeq
+   7:1   error  Unexpected var, use let or const instead  no-var
+   7:10  error  Strings must use singlequote              quotes
+   7:14  error  Missing semicolon                         semi
+   8:8   error  Expected '===' and instead saw '=='       eqeqeq
+   9:1   error  Unexpected var, use let or const instead  no-var
+   9:10  error  Strings must use singlequote              quotes
+   9:14  error  Missing semicolon                         semi
+  10:8   error  Expected '===' and instead saw '=='       eqeqeq
+  11:1   error  Unexpected var, use let or const instead  no-var
+  11:10  error  Strings must use singlequote              quotes
+  11:14  error  Missing semicolon                         semi
+  12:8   error  Expected '===' and instead saw '=='       eqeqeq
+  13:1   error  Unexpected var, use let or const instead  no-var
+  13:10  error  Strings must use singlequote              quotes
+  13:14  error  Missing semicolon                         semi
+  14:8   error  Expected '===' and instead saw '=='       eqeqeq
+  15:1   error  Unexpected var, use let or const instead  no-var
+  15:10  error  Strings must use singlequote              quotes
+  15:14  error  Missing semicolon                         semi
+  16:8   error  Expected '===' and instead saw '=='       eqeqeq
+
+/tmp/bench-work/js/src/f3.js
+   1:1   error  Unexpected var, use let or const instead  no-var
+   1:10  error  Strings must use singlequote              quotes
+   1:14  error  Missing semicolon                         semi
+   2:8   error  Expected '===' and instead saw '=='       eqeqeq
+   3:1   error  Unexpected var, use let or const instead  no-var
+   3:10  error  Strings must use singlequote              quotes
+   3:14  error  Missing semicolon                         semi
+   4:8   error  Expected '===' and instead saw '=='       eqeqeq
+   5:1   error  Unexpected var, use let or const instead  no-var
+   5:10  error  Strings must use singlequote              quotes
+   5:14  error  Missing semicolon                         semi
+   6:8   error  Expected '===' and instead saw '=='       eqeqeq
+   7:1   error  Unexpected var, use let or const instead  no-var
+   7:10  error  Strings must use singlequote              quotes
+   7:14  error  Missing semicolon                         semi
+   8:8   error  Expected '===' and instead saw '=='       eqeqeq
+   9:1   error  Unexpected var, use let or const instead  no-var
+   9:10  error  Strings must use singlequote              quotes
+   9:14  error  Missing semicolon                         semi
+  10:8   error  Expected '===' and instead saw '=='       eqeqeq
+  11:1   error  Unexpected var, use let or const instead  no-var
+  11:10  error  Strings must use singlequote              quotes
+  11:14  error  Missing semicolon                         semi
+  12:8   error  Expected '===' and instead saw '=='       eqeqeq
+  13:1   error  Unexpected var, use let or const instead  no-var
+  13:10  error  Strings must use singlequote              quotes
+  13:14  error  Missing semicolon                         semi
+  14:8   error  Expected '===' and instead saw '=='       eqeqeq
+  15:1   error  Unexpected var, use let or const instead  no-var
+  15:10  error  Strings must use singlequote              quotes
+  15:14  error  Missing semicolon                         semi
+  16:8   error  Expected '===' and instead saw '=='       eqeqeq
+
+/tmp/bench-work/js/src/f4.js
+   1:1   error  Unexpected var, use let or const instead  no-var
+   1:10  error  Strings must use singlequote              quotes
+   1:14  error  Missing semicolon                         semi
+   2:8   error  Expected '===' and instead saw '=='       eqeqeq
+   3:1   error  Unexpected var, use let or const instead  no-var
+   3:10  error  Strings must use singlequote              quotes
+   3:14  error  Missing semicolon                         semi
+   4:8   error  Expected '===' and instead saw '=='       eqeqeq
+   5:1   error  Unexpected var, use let or const instead  no-var
+   5:10  error  Strings must use singlequote              quotes
+   5:14  error  Missing semicolon                         semi
+   6:8   error  Expected '===' and instead saw '=='       eqeqeq
+   7:1   error  Unexpected var, use let or const instead  no-var
+   7:10  error  Strings must use singlequote              quotes
+   7:14  error  Missing semicolon                         semi
+   8:8   error  Expected '===' and instead saw '=='       eqeqeq
+   9:1   error  Unexpected var, use let or const instead  no-var
+   9:10  error  Strings must use singlequote              quotes
+   9:14  error  Missing semicolon                         semi
+  10:8   error  Expected '===' and instead saw '=='       eqeqeq
+  11:1   error  Unexpected var, use let or const instead  no-var
+  11:10  error  Strings must use singlequote              quotes
+  11:14  error  Missing semicolon                         semi
+  12:8   error  Expected '===' and instead saw '=='       eqeqeq
+  13:1   error  Unexpected var, use let or const instead  no-var
+  13:10  error  Strings must use singlequote              quotes
+  13:14  error  Missing semicolon                         semi
+  14:8   error  Expected '===' and instead saw '=='       eqeqeq
+  15:1   error  Unexpected var, use let or const instead  no-var
+  15:10  error  Strings must use singlequote              quotes
+  15:14  error  Missing semicolon                         semi
+  16:8   error  Expected '===' and instead saw '=='       eqeqeq
+
+/tmp/bench-work/js/src/f5.js
+   1:1   error  Unexpected var, use let or const instead  no-var
+   1:10  error  Strings must use singlequote              quotes
+   1:14  error  Missing semicolon                         semi
+   2:8   error  Expected '===' and instead saw '=='       eqeqeq
+   3:1   error  Unexpected var, use let or const instead  no-var
+   3:10  error  Strings must use singlequote              quotes
+   3:14  error  Missing semicolon                         semi
+   4:8   error  Expected '===' and instead saw '=='       eqeqeq
+   5:1   error  Unexpected var, use let or const instead  no-var
+   5:10  error  Strings must use singlequote              quotes
+   5:14  error  Missing semicolon                         semi
+   6:8   error  Expected '===' and instead saw '=='       eqeqeq
+   7:1   error  Unexpected var, use let or const instead  no-var
+   7:10  error  Strings must use singlequote              quotes
+   7:14  error  Missing semicolon                         semi
+   8:8   error  Expected '===' and instead saw '=='       eqeqeq
+   9:1   error  Unexpected var, use let or const instead  no-var
+   9:10  error  Strings must use singlequote              quotes
+   9:14  error  Missing semicolon                         semi
+  10:8   error  Expected '===' and instead saw '=='       eqeqeq
+  11:1   error  Unexpected var, use let or const instead  no-var
+  11:10  error  Strings must use singlequote              quotes
+  11:14  error  Missing semicolon                         semi
+  12:8   error  Expected '===' and instead saw '=='       eqeqeq
+  13:1   error  Unexpected var, use let or const instead  no-var
+  13:10  error  Strings must use singlequote              quotes
+  13:14  error  Missing semicolon                         semi
+  14:8   error  Expected '===' and instead saw '=='       eqeqeq
+  15:1   error  Unexpected var, use let or const instead  no-var
+  15:10  error  Strings must use singlequote              quotes
+  15:14  error  Missing semicolon                         semi
+  16:8   error  Expected '===' and instead saw '=='       eqeqeq
+
+/tmp/bench-work/js/src/f6.js
+   1:1   error  Unexpected var, use let or const instead  no-var
+   1:10  error  Strings must use singlequote              quotes
+   1:14  error  Missing semicolon                         semi
+   2:8   error  Expected '===' and instead saw '=='       eqeqeq
+   3:1   error  Unexpected var, use let or const instead  no-var
+   3:10  error  Strings must use singlequote              quotes
+   3:14  error  Missing semicolon                         semi
+   4:8   error  Expected '===' and instead saw '=='       eqeqeq
+   5:1   error  Unexpected var, use let or const instead  no-var
+   5:10  error  Strings must use singlequote              quotes
+   5:14  error  Missing semicolon                         semi
+   6:8   error  Expected '===' and instead saw '=='       eqeqeq
+   7:1   error  Unexpected var, use let or const instead  no-var
+   7:10  error  Strings must use singlequote              quotes
+   7:14  error  Missing semicolon                         semi
+   8:8   error  Expected '===' and instead saw '=='       eqeqeq
+   9:1   error  Unexpected var, use let or const instead  no-var
+   9:10  error  Strings must use singlequote              quotes
+   9:14  error  Missing semicolon                         semi
+  10:8   error  Expected '===' and instead saw '=='       eqeqeq
+  11:1   error  Unexpected var, use let or const instead  no-var
+  11:10  error  Strings must use singlequote              quotes
+  11:14  error  Missing semicolon                         semi
+  12:8   error  Expected '===' and instead saw '=='       eqeqeq
+  13:1   error  Unexpected var, use let or const instead  no-var
+  13:10  error  Strings must use singlequote              quotes
+  13:14  error  Missing semicolon                         semi
+  14:8   error  Expected '===' and instead saw '=='       eqeqeq
+  15:1   error  Unexpected var, use let or const instead  no-var
+  15:10  error  Strings must use singlequote              quotes
+  15:14  error  Missing semicolon                         semi
+  16:8   error  Expected '===' and instead saw '=='       eqeqeq
+
+/tmp/bench-work/js/src/f7.js
+   1:1   error  Unexpected var, use let or const instead  no-var
+   1:10  error  Strings must use singlequote              quotes
+   1:14  error  Missing semicolon                         semi
+   2:8   error  Expected '===' and instead saw '=='       eqeqeq
+   3:1   error  Unexpected var, use let or const instead  no-var
+   3:10  error  Strings must use singlequote              quotes
+   3:14  error  Missing semicolon                         semi
+   4:8   error  Expected '===' and instead saw '=='       eqeqeq
+   5:1   error  Unexpected var, use let or const instead  no-var
+   5:10  error  Strings must use singlequote              quotes
+   5:14  error  Missing semicolon                         semi
+   6:8   error  Expected '===' and instead saw '=='       eqeqeq
+   7:1   error  Unexpected var, use let or const instead  no-var
+   7:10  error  Strings must use singlequote              quotes
+   7:14  error  Missing semicolon                         semi
+   8:8   error  Expected '===' and instead saw '=='       eqeqeq
+   9:1   error  Unexpected var, use let or const instead  no-var
+   9:10  error  Strings must use singlequote              quotes
+   9:14  error  Missing semicolon                         semi
+  10:8   error  Expected '===' and instead saw '=='       eqeqeq
+  11:1   error  Unexpected var, use let or const instead  no-var
+  11:10  error  Strings must use singlequote              quotes
+  11:14  error  Missing semicolon                         semi
+  12:8   error  Expected '===' and instead saw '=='       eqeqeq
+  13:1   error  Unexpected var, use let or const instead  no-var
+  13:10  error  Strings must use singlequote              quotes
+  13:14  error  Missing semicolon                         semi
+  14:8   error  Expected '===' and instead saw '=='       eqeqeq
+  15:1   error  Unexpected var, use let or const instead  no-var
+  15:10  error  Strings must use singlequote              quotes
+  15:14  error  Missing semicolon                         semi
+  16:8   error  Expected '===' and instead saw '=='       eqeqeq
+
+/tmp/bench-work/js/src/f8.js
+   1:1   error  Unexpected var, use let or const instead  no-var
+   1:10  error  Strings must use singlequote              quotes
+   1:14  error  Missing semicolon                         semi
+   2:8   error  Expected '===' and instead saw '=='       eqeqeq
+   3:1   error  Unexpected var, use let or const instead  no-var
+   3:10  error  Strings must use singlequote              quotes
+   3:14  error  Missing semicolon                         semi
+   4:8   error  Expected '===' and instead saw '=='       eqeqeq
+   5:1   error  Unexpected var, use let or const instead  no-var
+   5:10  error  Strings must use singlequote              quotes
+   5:14  error  Missing semicolon                         semi
+   6:8   error  Expected '===' and instead saw '=='       eqeqeq
+   7:1   error  Unexpected var, use let or const instead  no-var
+   7:10  error  Strings must use singlequote              quotes
+   7:14  error  Missing semicolon                         semi
+   8:8   error  Expected '===' and instead saw '=='       eqeqeq
+   9:1   error  Unexpected var, use let or const instead  no-var
+   9:10  error  Strings must use singlequote              quotes
+   9:14  error  Missing semicolon                         semi
+  10:8   error  Expected '===' and instead saw '=='       eqeqeq
+  11:1   error  Unexpected var, use let or const instead  no-var
+  11:10  error  Strings must use singlequote              quotes
+  11:14  error  Missing semicolon                         semi
+  12:8   error  Expected '===' and instead saw '=='       eqeqeq
+  13:1   error  Unexpected var, use let or const instead  no-var
+  13:10  error  Strings must use singlequote              quotes
+  13:14  error  Missing semicolon                         semi
+  14:8   error  Expected '===' and instead saw '=='       eqeqeq
+  15:1   error  Unexpected var, use let or const instead  no-var
+  15:10  error  Strings must use singlequote              quotes
+  15:14  error  Missing semicolon                         semi
+  16:8   error  Expected '===' and instead saw '=='       eqeqeq
+
+/tmp/bench-work/js/src/f9.js
+   1:1   error  Unexpected var, use let or const instead  no-var
+   1:10  error  Strings must use singlequote              quotes
+   1:14  error  Missing semicolon                         semi
+   2:8   error  Expected '===' and instead saw '=='       eqeqeq
+   3:1   error  Unexpected var, use let or const instead  no-var
+   3:10  error  Strings must use singlequote              quotes
+   3:14  error  Missing semicolon                         semi
+   4:8   error  Expected '===' and instead saw '=='       eqeqeq
+   5:1   error  Unexpected var, use let or const instead  no-var
+   5:10  error  Strings must use singlequote              quotes
+   5:14  error  Missing semicolon                         semi
+   6:8   error  Expected '===' and instead saw '=='       eqeqeq
+   7:1   error  Unexpected var, use let or const instead  no-var
+   7:10  error  Strings must use singlequote              quotes
+   7:14  error  Missing semicolon                         semi
+   8:8   error  Expected '===' and instead saw '=='       eqeqeq
+   9:1   error  Unexpected var, use let or const instead  no-var
+   9:10  error  Strings must use singlequote              quotes
+   9:14  error  Missing semicolon                         semi
+  10:8   error  Expected '===' and instead saw '=='       eqeqeq
+  11:1   error  Unexpected var, use let or const instead  no-var
+  11:10  error  Strings must use singlequote              quotes
+  11:14  error  Missing semicolon                         semi
+  12:8   error  Expected '===' and instead saw '=='       eqeqeq
+  13:1   error  Unexpected var, use let or const instead  no-var
+  13:10  error  Strings must use singlequote              quotes
+  13:14  error  Missing semicolon                         semi
+  14:8   error  Expected '===' and instead saw '=='       eqeqeq
+  15:1   error  Unexpected var, use let or const instead  no-var
+  15:10  error  Strings must use singlequote              quotes
+  15:14  error  Missing semicolon                         semi
+  16:8   error  Expected '===' and instead saw '=='       eqeqeq
+
+✖ 384 problems (384 errors, 0 warnings)
+  288 errors and 0 warnings potentially fixable with the `--fix` option.
+

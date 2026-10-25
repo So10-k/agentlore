@@ -1,0 +1,174 @@
+Building for debugging...
+[Pre-planning 1 / 95]
+[Planning deferred tasks]
+[12 / 25] DemoTests-product
+[15 / 26] DemoTests-product
+[23 / 96]
+[24 / 96]
+[26 / 96]
+[34 / 96]
+[35 / 96]
+[37 / 96]
+[42 / 96]
+[43 / 96]
+[45 / 96]
+[46 / 96]
+[47 / 96]
+[49 / 96]
+[54 / 96]
+[56 / 96]
+[59 / 96]
+[60 / 96]
+[69 / 96]
+[71 / 96]
+[72 / 96]
+[74 / 96]
+[77 / 96]
+[78 / 96]
+[79 / 96]
+[80 / 96]
+[81 / 96]
+[82 / 96]
+[85 / 96] DemoTests-product
+[90 / 96] DemoTests-product
+[92 / 96] DemoTests-product
+[93 / 96] DemoTests-product
+Build complete! (17.51 sec)
+Test Suite 'All tests' started at 2026-10-25 09:48:43.379.
+Test Suite 'DemoTests.xctest' started at 2026-10-25 09:48:43.382.
+Test Suite 'DemoTests' started at 2026-10-25 09:48:43.382.
+Test Case '-[DemoTests.DemoTests testBroken]' started.
+/tmp/bench-work/Demo/Tests/DemoTests/DemoTests.swift:64: error: -[DemoTests.DemoTests testBroken] : XCTAssertEqual failed: ("1") is not equal to ("2")
+Test Case '-[DemoTests.DemoTests testBroken]' failed (0.257 seconds).
+Test Case '-[DemoTests.DemoTests testCase1]' started.
+Test Case '-[DemoTests.DemoTests testCase1]' passed (0.000 seconds).
+Test Case '-[DemoTests.DemoTests testCase10]' started.
+Test Case '-[DemoTests.DemoTests testCase10]' passed (0.000 seconds).
+Test Case '-[DemoTests.DemoTests testCase11]' started.
+Test Case '-[DemoTests.DemoTests testCase11]' passed (0.000 seconds).
+Test Case '-[DemoTests.DemoTests testCase12]' started.
+Test Case '-[DemoTests.DemoTests testCase12]' passed (0.000 seconds).
+Test Case '-[DemoTests.DemoTests testCase13]' started.
+Test Case '-[DemoTests.DemoTests testCase13]' passed (0.000 seconds).
+Test Case '-[DemoTests.DemoTests testCase14]' started.
+Test Case '-[DemoTests.DemoTests testCase14]' passed (0.000 seconds).
+Test Case '-[DemoTests.DemoTests testCase15]' started.
+Test Case '-[DemoTests.DemoTests testCase15]' passed (0.000 seconds).
+Test Case '-[DemoTests.DemoTests testCase16]' started.
+Test Case '-[DemoTests.DemoTests testCase16]' passed (0.000 seconds).
+Test Case '-[DemoTests.DemoTests testCase17]' started.
+Test Case '-[DemoTests.DemoTests testCase17]' passed (0.000 seconds).
+Test Case '-[DemoTests.DemoTests testCase18]' started.
+Test Case '-[DemoTests.DemoTests testCase18]' passed (0.000 seconds).
+Test Case '-[DemoTests.DemoTests testCase19]' started.
+Test Case '-[DemoTests.DemoTests testCase19]' passed (0.000 seconds).
+Test Case '-[DemoTests.DemoTests testCase2]' started.
+Test Case '-[DemoTests.DemoTests testCase2]' passed (0.000 seconds).
+Test Case '-[DemoTests.DemoTests testCase20]' started.
+Test Case '-[DemoTests.DemoTests testCase20]' passed (0.000 seconds).
+Test Case '-[DemoTests.DemoTests testCase21]' started.
+Test Case '-[DemoTests.DemoTests testCase21]' passed (0.000 seconds).
+Test Case '-[DemoTests.DemoTests testCase22]' started.
+Test Case '-[DemoTests.DemoTests testCase22]' passed (0.000 seconds).
+Test Case '-[DemoTests.DemoTests testCase23]' started.
+Test Case '-[DemoTests.DemoTests testCase23]' passed (0.000 seconds).
+Test Case '-[DemoTests.DemoTests testCase24]' started.
+Test Case '-[DemoTests.DemoTests testCase24]' passed (0.000 seconds).
+Test Case '-[DemoTests.DemoTests testCase25]' started.
+Test Case '-[DemoTests.DemoTests testCase25]' passed (0.000 seconds).
+Test Case '-[DemoTests.DemoTests testCase26]' started.
+Test Case '-[DemoTests.DemoTests testCase26]' passed (0.000 seconds).
+Test Case '-[DemoTests.DemoTests testCase27]' started.
+Test Case '-[DemoTests.DemoTests testCase27]' passed (0.000 seconds).
+Test Case '-[DemoTests.DemoTests testCase28]' started.
+Test Case '-[DemoTests.DemoTests testCase28]' passed (0.000 seconds).
+Test Case '-[DemoTests.DemoTests testCase29]' started.
+Test Case '-[DemoTests.DemoTests testCase29]' passed (0.000 seconds).
+Test Case '-[DemoTests.DemoTests testCase3]' started.
+Test Case '-[DemoTests.DemoTests testCase3]' passed (0.000 seconds).
+Test Case '-[DemoTests.DemoTests testCase30]' started.
+Test Case '-[DemoTests.DemoTests testCase30]' passed (0.000 seconds).
+Test Case '-[DemoTests.DemoTests testCase31]' started.
+Test Case '-[DemoTests.DemoTests testCase31]' passed (0.000 seconds).
+Test Case '-[DemoTests.DemoTests testCase32]' started.
+Test Case '-[DemoTests.DemoTests testCase32]' passed (0.000 seconds).
+Test Case '-[DemoTests.DemoTests testCase33]' started.
+Test Case '-[DemoTests.DemoTests testCase33]' passed (0.000 seconds).
+Test Case '-[DemoTests.DemoTests testCase34]' started.
+Test Case '-[DemoTests.DemoTests testCase34]' passed (0.000 seconds).
+Test Case '-[DemoTests.DemoTests testCase35]' started.
+Test Case '-[DemoTests.DemoTests testCase35]' passed (0.000 seconds).
+Test Case '-[DemoTests.DemoTests testCase36]' started.
+Test Case '-[DemoTests.DemoTests testCase36]' passed (0.000 seconds).
+Test Case '-[DemoTests.DemoTests testCase37]' started.
+Test Case '-[DemoTests.DemoTests testCase37]' passed (0.000 seconds).
+Test Case '-[DemoTests.DemoTests testCase38]' started.
+Test Case '-[DemoTests.DemoTests testCase38]' passed (0.000 seconds).
+Test Case '-[DemoTests.DemoTests testCase39]' started.
+Test Case '-[DemoTests.DemoTests testCase39]' passed (0.000 seconds).
+Test Case '-[DemoTests.DemoTests testCase4]' started.
+Test Case '-[DemoTests.DemoTests testCase4]' passed (0.000 seconds).
+Test Case '-[DemoTests.DemoTests testCase40]' started.
+Test Case '-[DemoTests.DemoTests testCase40]' passed (0.000 seconds).
+Test Case '-[DemoTests.DemoTests testCase41]' started.
+Test Case '-[DemoTests.DemoTests testCase41]' passed (0.000 seconds).
+Test Case '-[DemoTests.DemoTests testCase42]' started.
+Test Case '-[DemoTests.DemoTests testCase42]' passed (0.000 seconds).
+Test Case '-[DemoTests.DemoTests testCase43]' started.
+Test Case '-[DemoTests.DemoTests testCase43]' passed (0.000 seconds).
+Test Case '-[DemoTests.DemoTests testCase44]' started.
+Test Case '-[DemoTests.DemoTests testCase44]' passed (0.000 seconds).
+Test Case '-[DemoTests.DemoTests testCase45]' started.
+Test Case '-[DemoTests.DemoTests testCase45]' passed (0.000 seconds).
+Test Case '-[DemoTests.DemoTests testCase46]' started.
+Test Case '-[DemoTests.DemoTests testCase46]' passed (0.000 seconds).
+Test Case '-[DemoTests.DemoTests testCase47]' started.
+Test Case '-[DemoTests.DemoTests testCase47]' passed (0.000 seconds).
+Test Case '-[DemoTests.DemoTests testCase48]' started.
+Test Case '-[DemoTests.DemoTests testCase48]' passed (0.000 seconds).
+Test Case '-[DemoTests.DemoTests testCase49]' started.
+Test Case '-[DemoTests.DemoTests testCase49]' passed (0.000 seconds).
+Test Case '-[DemoTests.DemoTests testCase5]' started.
+Test Case '-[DemoTests.DemoTests testCase5]' passed (0.000 seconds).
+Test Case '-[DemoTests.DemoTests testCase50]' started.
+Test Case '-[DemoTests.DemoTests testCase50]' passed (0.000 seconds).
+Test Case '-[DemoTests.DemoTests testCase51]' started.
+Test Case '-[DemoTests.DemoTests testCase51]' passed (0.000 seconds).
+Test Case '-[DemoTests.DemoTests testCase52]' started.
+Test Case '-[DemoTests.DemoTests testCase52]' passed (0.000 seconds).
+Test Case '-[DemoTests.DemoTests testCase53]' started.
+Test Case '-[DemoTests.DemoTests testCase53]' passed (0.000 seconds).
+Test Case '-[DemoTests.DemoTests testCase54]' started.
+Test Case '-[DemoTests.DemoTests testCase54]' passed (0.000 seconds).
+Test Case '-[DemoTests.DemoTests testCase55]' started.
+Test Case '-[DemoTests.DemoTests testCase55]' passed (0.000 seconds).
+Test Case '-[DemoTests.DemoTests testCase56]' started.
+Test Case '-[DemoTests.DemoTests testCase56]' passed (0.000 seconds).
+Test Case '-[DemoTests.DemoTests testCase57]' started.
+Test Case '-[DemoTests.DemoTests testCase57]' passed (0.000 seconds).
+Test Case '-[DemoTests.DemoTests testCase58]' started.
+Test Case '-[DemoTests.DemoTests testCase58]' passed (0.000 seconds).
+Test Case '-[DemoTests.DemoTests testCase59]' started.
+Test Case '-[DemoTests.DemoTests testCase59]' passed (0.000 seconds).
+Test Case '-[DemoTests.DemoTests testCase6]' started.
+Test Case '-[DemoTests.DemoTests testCase6]' passed (0.000 seconds).
+Test Case '-[DemoTests.DemoTests testCase60]' started.
+Test Case '-[DemoTests.DemoTests testCase60]' passed (0.000 seconds).
+Test Case '-[DemoTests.DemoTests testCase7]' started.
+Test Case '-[DemoTests.DemoTests testCase7]' passed (0.000 seconds).
+Test Case '-[DemoTests.DemoTests testCase8]' started.
+Test Case '-[DemoTests.DemoTests testCase8]' passed (0.000 seconds).
+Test Case '-[DemoTests.DemoTests testCase9]' started.
+Test Case '-[DemoTests.DemoTests testCase9]' passed (0.000 seconds).
+Test Suite 'DemoTests' failed at 2026-10-25 09:48:43.656.
+	 Executed 61 tests, with 1 failure (0 unexpected) in 0.267 (0.274) seconds
+Test Suite 'DemoTests.xctest' failed at 2026-10-25 09:48:43.656.
+	 Executed 61 tests, with 1 failure (0 unexpected) in 0.267 (0.274) seconds
+Test Suite 'All tests' failed at 2026-10-25 09:48:43.656.
+	 Executed 61 tests, with 1 failure (0 unexpected) in 0.267 (0.277) seconds
+􀟈  Test run started.
+􀄵  Testing Library Version: 2084
+􀄵  Target Platform: arm64e-apple-macos14.0
+􁁛  Test run with 0 tests in 0 suites passed after 0.001 seconds.
+Note: Some test targets reported failures:
+  - DemoTests (XCTest)

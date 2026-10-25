@@ -1,0 +1,16 @@
+{
+  "npm-install": "npm install jest@29 vitest@2 typescript@5 eslint@8",
+  "npm-install-deprecated": "npm install request@2 gulp@4",
+  "jest-verbose-fail": "npx jest --verbose",
+  "jest-fail": "npx jest",
+  "jest-verbose-pass": "npx jest --verbose",
+  "jest-coverage": "npx jest --coverage",
+  "vitest-verbose-fail": "npx vitest run --reporter=verbose",
+  "tsc-errors": "npx tsc --noEmit --strict bad.ts",
+  "eslint-errors": "npx eslint src",
+  "pip-install": "pip install pytest requests flask",
+  "pytest-verbose-fail": "pytest -v",
+  "pytest-fail": "pytest",
+  "swift-build-verbose": "swift build -v",
+  "swift-test-fail": "swift test"
+}

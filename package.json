@@ -1,0 +1,35 @@
+{
+  "name": "agentlore",
+  "version": "0.1.0",
+  "description": "Memory for Claude Code and Codex: agents learn from your corrections, hand work off between sessions, and you can measure whether it is working.",
+  "type": "module",
+  "bin": {
+    "lore": "bin/lore.js",
+    "agentlore": "bin/lore.js"
+  },
+  "files": [
+    "bin",
+    "src",
+    "README.md",
+    "LICENSE"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [
+    "claude",
+    "claude-code",
+    "codex",
+    "memory",
+    "agents",
+    "hooks",
+    "context",
+    "tokens",
+    "handoff",
+    "lessons"
+  ],
+  "license": "MIT"
+}
